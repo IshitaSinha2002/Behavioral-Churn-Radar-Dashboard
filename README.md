@@ -23,7 +23,7 @@
 The dataset was manually created for learning and portfolio demonstration purposes and does not contain any real customer information.</h4>
 
 <h3>Features & Highlights</h3>
-<h4>Two-Level Dashboard Structure<br>
+<h4>Two-Level Dashboard Structure<br><br>
 Page 1: Subscription Intelligence<br><br>
 This page provides a high-level overview of subscription health and churn performance. It includes key summary metrics such as Total Active Users, Total Churned Users, Churn Rate, and Revenue at Risk to quickly assess business impact. Trend and distribution visuals such as Churn Trend over Time, Churn by Subscription Plan, Payment Outcome Distribution, and Support Ticket Types help identify patterns across time, pricing tiers, billing stability, and customer support interactions. <br><br>
 Page 2: Churn Risk Deep Dive
