@@ -25,7 +25,7 @@ The dataset was manually created for learning and portfolio demonstration purpos
 <h3>Features & Highlights</h3>
 <h4>Two-Level Dashboard Structure<br><br>
 Page 1: Subscription Intelligence<br>
-<img src="https://github.com/IshitaSinha2002/Behavioral-Churn-Radar-Dashboard/blob/main/Churn%20Risk%20Deep%20Dive%20SS.png" alt="" width="300" height="200">
+<img src="https://github.com/IshitaSinha2002/Behavioral-Churn-Radar-Dashboard/blob/main/Churn%20Risk%20Deep%20Dive%20SS.png" alt=""><br>
 This page provides a high-level overview of subscription health and churn performance. It includes key summary metrics such as Total Active Users, Total Churned Users, Churn Rate, and Revenue at Risk to quickly assess business impact. Trend and distribution visuals such as Churn Trend over Time, Churn by Subscription Plan, Payment Outcome Distribution, and Support Ticket Types help identify patterns across time, pricing tiers, billing stability, and customer support interactions. <br><br>
 Page 2: Churn Risk Deep Dive
 This page focuses on identifying and explaining future churn risk among active users. It highlights High-Risk Active Users and associated Revenue at Risk, along with operational and behavioral indicators driving that risk. Visuals such as Payment Stability Trend and Support Ticket Types for High-Risk Users surface friction and billing issues, while engagement-focused metrics including Average Sessions, Feature Usage Depth, Average Time Spent, and Average Resolution Time explain how declining usage and service experience contribute to churn risk.
