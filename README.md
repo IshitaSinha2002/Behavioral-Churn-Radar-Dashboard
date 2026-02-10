@@ -26,7 +26,7 @@ The dataset was manually created for learning and portfolio demonstration purpos
 <h4>Two-Level Dashboard Structure<br><br>
 <img src="https://github.com/IshitaSinha2002/Behavioral-Churn-Radar-Dashboard/blob/main/Main%20Page%20SS.png" alt=""><br><br>
 Page 1: Subscription Intelligence<br><br>
-<img src="https://github.com/IshitaSinha2002/Behavioral-Churn-Radar-Dashboard/blob/main/Churn%20Risk%20Deep%20Dive%20SS.png" alt=""><br><br>
+<img src="https://github.com/IshitaSinha2002/Behavioral-Churn-Radar-Dashboard/blob/main/Subscription%20Intelligence%20SS.png" alt=""><br><br>
 This page provides a high-level overview of subscription health and churn performance. It includes key summary metrics such as Total Active Users, Total Churned Users, Churn Rate, and Revenue at Risk to quickly assess business impact. Trend and distribution visuals such as Churn Trend over Time, Churn by Subscription Plan, Payment Outcome Distribution, and Support Ticket Types help identify patterns across time, pricing tiers, billing stability, and customer support interactions. <br><br>
 Page 2: Churn Risk Deep Dive<br><br>
 <img src="https://github.com/IshitaSinha2002/Behavioral-Churn-Radar-Dashboard/blob/main/Churn%20Risk%20Deep%20Dive%20SS.png" alt=""><br><br>
